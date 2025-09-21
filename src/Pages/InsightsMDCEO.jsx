@@ -8,12 +8,12 @@ const InsightsMDCEO = () => {
         <h2 className='text-5xl font-bold text-[#222d65] text-center mb-4'>Sparking up Growth Engines</h2>
         <div className='flex flex-col md:flex-row items-center justify-center bg-[url("./ChairmansDesk/Orange-Shape.webp")] bg-no-repeat bg-contain bg-right md:min-h-150 h-65 mb-8'>
           <div className='p-8 relative md:w-1/2'>
-            <img src="" alt="MD" className='w-full h-auto object-cover' />
+            <img src="./ChairmansDesk/Ravi Chawla.webp" alt="MD" className='w-full h-auto object-cover' />
             <div className='absolute inset-0 '></div>
           </div>
           <div className='md:w-1/2 p-8'>
             <div className='relative'>
-              <blockquote className='text-3xl font-bold text-black'>
+              <blockquote className='text-3xl font-semibold text-black'>
                 <span className='absolute -left-6 -top-4 text-7xl font-bold text-[#0f357f]'>&ldquo;</span>
                 Our robust and resilient
                 business model has enabled

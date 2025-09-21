@@ -13,12 +13,12 @@ const ChairmanDesk = () => {
           </div>
           <div className='md:w-1/2 p-8'>
             <div className='relative'>
-              <blockquote className='text-3xl font-bold text-black'>
+              <blockquote className='text-3xl font-semibold text-black'>
                 <span className='absolute -left-6 -top-4 text-7xl font-bold text-[#0f357f]'>&ldquo;</span>
                 This year has been a defining period, marked by achieving many new milestones with record-breaking performance and significant strategic moves that position us strongly for the future.
                 <span className='absolute -bottom-6 -right-6 text-7xl font-bold text-[#f26824]'>&rdquo;</span>
               </blockquote>
-              <p className='text-xl text-black mt-8'>
+              <p className='text-xl text-black font-medium mt-8'>
                 Reflecting its confidence in the company’s financial strength and commitment to rewarding shareholders, the Board declared a total dividend of ₹48 per equity share, comprising an interim dividend of ₹20 and a final dividend of ₹28 representing a payout ratio of 65%, the highest in our history.
               </p>
             </div>
